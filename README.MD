@@ -40,7 +40,7 @@ Es importante tener en cuenta lo siguiente:
 ## Cómo utilizar este repositorio
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone https://github.com/usuario/topicos-de-programacion.git
+   git clone https://github.com/san-sanchez/TOPICOS-2024.git
    ```
 2. Abre los archivos fuente (`.c`) en tu IDE de preferencia.
 3. Si estás usando Code::Blocks:
